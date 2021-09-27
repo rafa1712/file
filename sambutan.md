@@ -5,7 +5,7 @@ Perlu diketahui bahwa setiap dokumen resmi yang dipublikasikan oleh Feng Math Cl
 
 Anda dapat mengakses setiap dokumen yang ada secara gratis dengan syarat dan ketentuan yang berlaku :
 
-1. Hak milik semua dokumen ada pada Feng Math Class.
+1. Hak milik semua dokumen ada pada Feng Math Class file/LICENSE.
 2. Anda hanya dapat membaca tanpa mengubah sebagian atau seluruh isi yang ada.
 3. Anda dapat menyebar semua jenis dokumen dengan memerhatikan poin 1 dan 2.
 4. Jika dilanggarnya poin-poin diatas, Anda harus menanggung resiko yang ada.
